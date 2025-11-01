@@ -1,0 +1,1 @@
+This is a simple program for pi and stuff and really cool darts! it can take input or not using 9 darts to see whihc is close to pi
